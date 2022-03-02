@@ -1,0 +1,33 @@
+.match-item {
+  margin-bottom: 30px;
+  padding: 20px 40px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  width: 30%;
+  background: #dcdff3;
+}
+
+.match-item__title {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.teams {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team {
+  padding: 4px;
+}
+
+.team--home {
+  padding-bottom: 7px;
+  border-bottom: 2px solid;
+  margin-bottom: 7px;
+}
+
+.teams__date {
+  display: flex;
+  align-items: center;
+}

@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Материалы к мастер-классу от IT-компании SimbirSoft
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
